@@ -1,6 +1,2 @@
 # Proyectos
 
-Pilin
-
-Perrilla123
-
